@@ -25,11 +25,10 @@ require_once dirname(__FILE__) . '/../../header.php';
 require_once dirname(__FILE__) . '/barzahlen.php';
 
 if (!$cookie->isLogged(true)) {
-  Tools::redirect('authentication.php?back=order.php');
+    Tools::redirect('authentication.php?back=order.php');
 }
 
 $barzahlen = new Barzahlen();
 echo $barzahlen->execPayment($cart);
 
 require_once dirname(__FILE__) . '/../../footer.php';
-
