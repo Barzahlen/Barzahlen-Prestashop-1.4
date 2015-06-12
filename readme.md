@@ -1,12 +1,17 @@
 # Barzahlen Payment Module (Prestashop 1.4)
 
 ## User Manual
-https://integration.barzahlen.de/de/shopsysteme/prestashop/nutzerhandbuch-14
+DE - https://integration.barzahlen.de/de/shopsysteme/prestashop/nutzerhandbuch-14  
+EN - https://integration.barzahlen.de/en/shopsystems/prestashop/user-manual-14
 
 ## Current Version
-1.0.2
+1.0.3
 
 ## Changelog
+
+### 1.0.3 (12.06.2015)
+* improved payment selection
+* updated to Barzahlen PHP SDK v1.1.8
 
 ### 1.0.2 (25.06.2013)
 * updated Barzahlen API PHP SDK
@@ -22,10 +27,10 @@ https://integration.barzahlen.de/de/shopsysteme/prestashop/nutzerhandbuch-14
 * initial release
 
 ## Support
-The Barzahlen Team will happily assist you with any problems or questions. Send us an email to support@barzahlen.de or use the contact form at http://www.barzahlen.de/partner/integration.
+The Barzahlen Team will happily assist you with any problems or questions. Send us an email to support@barzahlen.de or use the contact form at https://integration.barzahlen.de/en/support.
 
 ## Copyright
-(c) 2014, Cash Payment Solutions GmbH  
+(c) 2015, Cash Payment Solutions GmbH  
 https://www.barzahlen.de
 
 ## NOTICE OF LICENSE
