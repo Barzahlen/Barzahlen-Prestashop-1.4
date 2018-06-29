@@ -1,5 +1,8 @@
 # Barzahlen Payment Module (Prestashop 1.4)
 
+## Deprecation Notice
+This module is no longer maintained and should not be used for new projects.
+
 ## User Manual
 DE - https://integration.barzahlen.de/de/shopsysteme/prestashop/nutzerhandbuch-14  
 EN - https://integration.barzahlen.de/en/shopsystems/prestashop/user-manual-14
